@@ -1,0 +1,209 @@
+body{
+    margin:0px;
+    background-image:url("https://i.pinimg.com/736x/2e/17/e2/2e17e2cba87c462b2634690fae0f8fcd.jpg");
+    background-size:cover;
+}
+
+  
+.nav-bar{
+
+    display: flex;
+    justify-content:space-between ;
+    gap:5px;
+    margin-top: 15px;
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size:20px
+}
+.input{
+    width:400px; 
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+input{
+    border:5px solid #bbd0ff;
+    width:400px;
+    height:50px;
+    border-radius:100px;
+    margin-top:90px;
+}
+a{
+    text-decoration: none;
+    margin:5px 5px 5px 5px;
+}
+#bar{
+    border:2px solid #541a8a;
+    border-radius:100px;
+    padding: 2px 6px;
+    margin:auto
+}
+#bar:hover{
+    background: #e7c6ff;
+}
+#logo{
+    width:100px;
+    border-radius:100%;}
+.element{
+    background-image:url("https://png.pngtree.com/thumb_back/fw800/background/20231229/pngtree-aesthetic-watercolor-gradient-hand-painted-pastel-purple-background-with-light-lavender-image_13844899.png");
+    background-size:cover;
+    display:flex;
+    justify-content: space-between;
+    margin-top:50px;
+    width:100%;
+    height:400px; 
+    border-radius: 30px;  
+}
+.purchase{
+    color:#551A8B;
+    padding-right:50px;
+    padding-top: 100px;
+    font-family: "Bodoni Moda", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    font-size:20px
+}
+#purchase-button{
+    margin-left: 90px;
+}
+#photo{
+    border-radius: 100px;
+    width:600px;
+    height:300px;
+    padding-top:50px;
+    padding-left:50px;
+    padding-bottom: 50px;
+    
+}
+.front{
+    background-image:url("https://png.pngtree.com/thumb_back/fw800/background/20231229/pngtree-aesthetic-watercolor-gradient-hand-painted-pastel-purple-background-with-light-lavender-image_13844899.png");
+    background-size:cover;
+    display:flex;
+    justify-content: space-between;
+    border:5px solid white;  
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size:20px;
+}
+button{
+    width:100px;
+    padding:2px 8px;
+    margin:30px 10px ;
+    background:#B8C0FF;
+    border:none;
+    box-shadow: 4px -2px 0px #99a4f7 ;
+    border-radius:100px;
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-weight:bold;
+    font-style: normal;
+    font-size:20px
+}
+button:hover{
+    background:#99a4f7;
+    
+}
+.product{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top:80px;
+}
+.product2{
+     display:flex;
+    justify-content: space-evenly;
+    margin-top:80px;
+}
+#Washi{
+    margin-left:20px;
+    width:150px;
+    height:150px;
+    border:5px solid #FFD6FF;
+    border-radius:100px;
+    box-shadow: 5px -4px 0px #e7c6ff;
+}
+#Journaling{
+    margin-left:40px;
+    width:150px;
+    height:150px;
+    border:5px solid #FFD6FF;
+    border-radius:100px;
+}
+#Pens{
+    margin-left:30px;
+    width:150px;
+    height:150px;
+    border:5px solid #FFD6FF;
+    border-radius:100px; 
+}
+#notes{
+    margin-left:30px;
+    width:150px;
+    height:150px;
+    border:5px solid #FFD6FF;
+    border-radius:100px;  
+}
+#notebook{
+    margin-left:30px;
+    width:150px;
+    height:150px;
+    border:5px solid #FFD6FF;
+    border-radius:100px;
+}
+#staplerpins{
+    margin-left:30px;
+    width:150px;
+    height:150px;
+    border:5px solid #FFD6FF;
+    border-radius:100px;
+}
+#pencils{
+    width:150px;
+    height:150px;
+    border:5px solid #FFD6FF;
+    border-radius:100px;
+}
+#pencilcases{
+    width:150px;
+    height:150px;
+    border:5px solid #FFD6FF;
+    border-radius:100px;    
+}
+#sticky-notes{
+    margin-left:30px;
+
+    
+}
+#pen{
+    margin-left:30px;
+}
+h4{
+    display:flex;
+    justify-content: space-evenly;
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size:20px;
+    text-align:start;
+    color:#333333;
+    text-shadow:0px 0px 1px #3c096c;
+    margin-top:10px;
+    margin-left:45px
+}
+.follow{
+    background-image:url("https://png.pngtree.com/thumb_back/fw800/background/20231229/pngtree-aesthetic-watercolor-gradient-hand-painted-pastel-purple-background-with-light-lavender-image_13844899.png");
+    background-size:cover;
+    margin-bottom:0px;
+    
+}
+#icon{
+    width:40px;
+    height:40px;
+    margin-bottom:20px;
+    border-radius:100px;    
+}
